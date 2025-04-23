@@ -1,4 +1,4 @@
-# NIPS Paper Analysis Using Natural Language Processing (NLP)
+# NIPS Paper Analysis NLP
 
 This project analyzes over 50,000 research papers from the Neural Information Processing Systems (NIPS) conference using Natural Language Processing (NLP) techniques. The goal of the project is to identify trends in the machine learning field, visualize popular terms, and detect topics discussed in the papers. This project covers data preprocessing, visualization, word frequency analysis, and topic modeling using Latent Dirichlet Allocation (LDA).
 
